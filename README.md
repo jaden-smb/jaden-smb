@@ -12,6 +12,7 @@ For mobile development, I use 📱 React Native with TypeScript and Ionic to cra
 - 🚀 Go
 - 🐍 Django
 - 🔥 Flask
+- 📱 Kotlin
 - ☕️ Java
 
 On my GitHub page, you'll find a showcase of my journey as a software developer, where I share my projects and the ✨ magic ✨ I can create with code.
